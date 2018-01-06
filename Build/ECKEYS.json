@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 134217728,
+"dataUrl": "ECKEYS.data.unityweb",
+"asmCodeUrl": "ECKEYS.asm.code.unityweb",
+"asmMemoryUrl": "ECKEYS.asm.memory.unityweb",
+"asmFrameworkUrl": "ECKEYS.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
